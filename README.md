@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Vanilla128
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning PHP Python JavaScript
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me:Just Email me: psvanillad@gmail.com
-
-<!---
-Vanilla128/Vanilla128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Vanilla128&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117&hide=prs,issues)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanilla128&layout=compact&theme=react&show_icons=true&hide_border=true&title_color=2c98ff&icon_color=2c98ff&bg_color=0d1117)](#)
+<br><br>
